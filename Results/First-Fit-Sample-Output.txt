@@ -1,0 +1,76 @@
+1
+3
+2
+1 25 2
+2 2
+2 1 4
+2 2 1 2
+
+machine_to_chunks:
+Machine 1: 2
+Machine 2: 1
+Machine 3: 2
+Machine 4: 2
+Machine 5: 2
+
+Whole Schedule in machine : 1
+
+Scheudle for VM 1 :
+Time 23 - Chunk: 2 Job: 1
+Time 24 - Chunk: 2 Job: 1
+
+Scheudle for VM 2 :
+Time 23 - Free
+Time 24 - Free
+
+Scheudle for VM 3 :
+Time 23 - Free
+Time 24 - Free
+
+
+Whole Schedule in machine : 2
+
+Scheudle for VM 1 :
+Time 0 - Chunk: 1 Job: 2
+
+Scheudle for VM 2 :
+Time 0 - Free
+
+Scheudle for VM 3 :
+Time 0 - Free
+
+
+Whole Schedule in machine : 3
+
+Scheudle for VM 1 :
+Time 0 - Chunk: 2 Job: 2
+
+Scheudle for VM 2 :
+Time 0 - Free
+
+Scheudle for VM 3 : 
+Time 0 - Free
+
+
+Whole Schedule in machine : 4
+
+Scheudle for VM 1 :
+Time 0 - Chunk: 2 Job: 2
+
+Scheudle for VM 2 :
+Time 0 - Free
+
+Scheudle for VM 3 :
+Time 0 - Free
+
+
+Whole Schedule in machine : 5
+
+Scheudle for VM 1 :
+Time 0 - Chunk: 2 Job: 2
+
+Scheudle for VM 2 :
+Time 0 - Free
+
+Scheudle for VM 3 :
+Time 0 - Free

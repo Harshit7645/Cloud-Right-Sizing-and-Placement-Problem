@@ -1,0 +1,14 @@
+Set parameter Username
+Academic license - for non-commercial use only - expires 2024-12-06
+Chunks mapped to Machine 1: [3, 5]
+Chunks mapped to Machine 2: [1, 2]
+Chunks mapped to Machine 4: [1, 4]
+Chunks mapped to Machine 6: [1, 5]
+Timeslots for chunk 1 in machine 2 till deadline 2: 2.0
+Timeslots for chunk 1 in machine 4 till deadline 2: 2.0
+Timeslots for chunk 1 in machine 6 till deadline 2: 2.0
+Timeslots for chunk 2 in machine 2 till deadline 2: 1.0
+Timeslots for chunk 3 in machine 1 till deadline 2: 1.0
+Timeslots for chunk 4 in machine 4 till deadline 2: 1.0
+Timeslots for chunk 5 in machine 1 till deadline 2: 1.0
+Timeslots for chunk 5 in machine 6 till deadline 2: 2.0
