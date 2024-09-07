@@ -1,5 +1,5 @@
 # Placement and Scheduling of Data Intensive Jobs in Edge-Cloud System
-## Dhanesh V : 210101117, Ketan Singh : 210101118, Harshit Singh Pakhariya : 210101048
+## Harshit Singh Pakhariya : 210101048, Dhanesh V : 210101117, Ketan Singh : 210101118
 
 Readme for running the code submitted for CS528 Course Project, Jan-May 2024 Semester.
 
